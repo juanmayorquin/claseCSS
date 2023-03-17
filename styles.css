@@ -1,0 +1,37 @@
+.logo{
+    height: 160px;
+    width: 160px;
+}
+main{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+.buttons div{
+    padding: 1px;
+    border-radius: 150px;
+    
+}
+
+.button_1{
+    background-color: #EA4335;
+}
+
+.button_2{
+    background-color: #4285F4;
+}
+
+.button_3{
+    background-color: #0F9D58;
+}
+
+.button_4{
+    background-color: #FBBC04;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
